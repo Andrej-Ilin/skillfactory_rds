@@ -18,3 +18,17 @@
 
 5. Планируете ли вы менять стратегию изучения последующих модулей?
 Ответ: Нет.  
+
+
+Module "Who wants to become a millionaire.
+Project objective: to conduct a preliminary data analysis based on the IMDB site dataset.
+Number of points scored in the quiz -27-answers to self-reflection questions:
+What part of your work were you particularly happy with? Answer: I don't know. But I really liked working at Pandas
+
+. what didn't work out the way I wanted? What else is worth working on? Answer: In General, you need more practice.
+
+What interesting and useful things did you learn in this module? Answer: A lot of things because this is a new topic for me!
+
+What is your main result when completing this project? Answer: I Have mastered the skills of filtering, processing, and grouping data.
+
+Do you plan to change the strategy for studying subsequent modules? Answer: No.
