@@ -7,7 +7,8 @@
  
 **Этапы работы над проектом**
 * Спарсил данные все авто с 2003 по 2020 года: ссылка на файл CSV https://drive.google.com/file/d/1rE9OnBeyqgybOyIX9ryMLIN5BAOajuJk/view?usp=sharing 
-*bodyType,	brand,	color,	complectation_dict,	description,	engineDisplacement,	enginePower,	equipment_dict,	fuelType,	mileage,	modelDate,	model_name,	numberOfDoors,	price,	productionDate,	super_gen,	vehicleConfiguration,	vehicleTransmission,	vendor,	Владельцы,	ПТС,	Привод,	Руль,	Состояние,	Таможня*
+
+**Колонки с данными:** bodyType,	brand,	color,	complectation_dict,	description,	engineDisplacement,	enginePower,	equipment_dict,	fuelType,	mileage,	modelDate,	model_name,	numberOfDoors,	price,	productionDate,	super_gen,	vehicleConfiguration,	vehicleTransmission,	vendor,	Владельцы,	ПТС,	Привод,	Руль,	Состояние,	Таможня*
 
 * Предварительный анализ данных:
 *
