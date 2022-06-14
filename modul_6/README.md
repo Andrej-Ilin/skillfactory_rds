@@ -6,7 +6,7 @@
  - Целевая метрика MAPE  (Mean Percentage Absolute Error).
  
 **Этапы работы над проектом**
-* Спарсил данные: 
+* Спарсил данные все авто с 2003 по 2020 года: 
 *bodyType,	brand,	color,	complectation_dict,	description,	engineDisplacement,	enginePower,	equipment_dict,	fuelType,	mileage,	modelDate,	model_name,	numberOfDoors,	price,	productionDate,	super_gen,	vehicleConfiguration,	vehicleTransmission,	vendor,	Владельцы,	ПТС,	Привод,	Руль,	Состояние,	Таможня*
 
 * Предварительный анализ данных:
